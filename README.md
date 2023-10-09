@@ -1,2 +1,7 @@
-# efficient_llm_pipeline
-Efficient Use of Large Language Models for Analysis of Text Corpora
+# Efficient Use of Large Language Models for Analysis of Text Corpora
+
+
+### BibTex citation
+```
+TODO
+```
