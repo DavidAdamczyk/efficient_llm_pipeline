@@ -1,6 +1,6 @@
 
 ### Development environment
-* Install PySerini ['docs'](https://github.com/castorini/pyserini/blob/master/docs/installation.md)
+* Install Pyserini ['docs'](https://github.com/castorini/pyserini/blob/master/docs/installation.md)
 
 ### Lucene indexing for sparse vectors (SPLADE)
 
